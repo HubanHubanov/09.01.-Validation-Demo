@@ -1,0 +1,20 @@
+{
+  "name": "09.01.-validation-and-error-handling-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-validator": "^7.1.0",
+    "validator": "^13.12.0"
+  }
+}
